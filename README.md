@@ -32,7 +32,7 @@ putida| 194340| 1942590|
 umbonata| 144834| 1424192|
 violaceinigra| 173378| 1700850|
 
-###Гистограмы
+### Гистограмы
 
 |albidiflava | armeniaca| flava
 |---|---|---
