@@ -47,7 +47,14 @@ violaceinigra|
 ![massilia_violaceinigra_zhunt_500](https://user-images.githubusercontent.com/59918228/173200355-9e08c073-7e60-45e6-9b03-0199ab5be956.png)|
 
 ### Ассоциированные Z-DNA
-![index](https://user-images.githubusercontent.com/59918228/173243645-1dd14729-2570-4283-9704-bea95dbdd026.png)
+![massilia_albidiflava_gene](https://user-images.githubusercontent.com/59918228/173243798-cf4ef1af-7d78-44cc-86ce-c49b17dc0870.png)
+![massilia_armeniaca_gene](https://user-images.githubusercontent.com/59918228/173243800-b661542b-decd-4869-b156-92c6bf377f65.png)
+![massilia_flava_gene](https://user-images.githubusercontent.com/59918228/173243801-d7a13067-9f2d-4a26-97c6-cdb662bd91ea.png)
+![massilia_plicata_gene](https://user-images.githubusercontent.com/59918228/173243802-1e2d5624-e547-4556-8415-45a839dea863.png)
+![massilia_putida_gene](https://user-images.githubusercontent.com/59918228/173243805-ebe99441-c120-40e0-a06a-ea78cdd47472.png)
+![massilia_umbonata_gene](https://user-images.githubusercontent.com/59918228/173243807-1214f41b-9e20-491d-aa25-2dad4df93e3b.png)
+![massilia_violaceinigra_gene](https://user-images.githubusercontent.com/59918228/173243809-1c3c8e8e-74f6-4a2d-ab84-bbe5ce9aa68a.png)
+
 
 ## Сводная таблица
 |Название вида | Кол-во хромосом| Кол-во скаффолдов| Кол-во плазмид| Oбщая длина| Кол-во аннотированных генов| Доля аннотированных генов в геноме| Кол-во предсказанных участков z-dna| Кол-во участков с zh-score >500| Oбщая длина участков с zh-score >500|
