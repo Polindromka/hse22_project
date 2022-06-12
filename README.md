@@ -56,8 +56,9 @@ violaceinigra|
 ![massilia_violaceinigra_gene](https://user-images.githubusercontent.com/59918228/173243809-1c3c8e8e-74f6-4a2d-ab84-bbe5ce9aa68a.png)
 
 ### Статистика распределения Z_DNA
+![z_dna_statistic](https://user-images.githubusercontent.com/59918228/173243895-437c2fcb-dcdb-495f-bda7-27bcc69696a0.png)
 
-![image](https://user-images.githubusercontent.com/59918228/173243866-abd937a0-d5bb-40fc-be56-c2f3da6e8b57.png)
+
 
 ## Сводная таблица
 |Название вида | Кол-во хромосом| Кол-во скаффолдов| Кол-во плазмид| Oбщая длина| Кол-во аннотированных генов| Доля аннотированных генов в геноме| Кол-во предсказанных участков z-dna| Кол-во участков с zh-score >500| Oбщая длина участков с zh-score >500|
