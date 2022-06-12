@@ -46,6 +46,8 @@ violaceinigra|
 |---
 ![massilia_violaceinigra_zhunt_500](https://user-images.githubusercontent.com/59918228/173200355-9e08c073-7e60-45e6-9b03-0199ab5be956.png)|
 
+### Ассоциированные Z-DNA
+![image](https://user-images.githubusercontent.com/59918228/173243479-8dc5cc15-8dfb-4956-856a-dae2eb4833f3.png)
 
 ## Сводная таблица
 |Название вида | Кол-во хромосом| Кол-во скаффолдов| Кол-во плазмид| Oбщая длина| Кол-во аннотированных генов| Доля аннотированных генов в геноме| Кол-во предсказанных участков z-dna| Кол-во участков с zh-score >500| Oбщая длина участков с zh-score >500|
