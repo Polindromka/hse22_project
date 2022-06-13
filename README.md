@@ -128,32 +128,39 @@ WP_137316325.1|massilia_umbonata|38833.58|gene|
 WP_099874546.1|massilia_violaceinigra|211093.9|promoter|
 
 ### Cluster 4
-Gene| Score| Position| Function
-|---|---|---|---
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
+WP_131146565.1|massilia_albidiflava|883.58|promoter|
+WP_107141742.1|massilia_armeniaca|883.58|gene|
+WP_145878339.1|massilia_flava|980.81|gene|
+WP_206076713.1|massilia_plicata|6565.99|gene|
+WP_075795641.1|massilia_putida|27872.66|gene|
+WP_137311920.1|massilia_umbonata|980.81|gene|
+WP_099880217.1|massilia_violaceinigra|980.81|promoter|
 
 ### Cluster 5
-Gene| Score| Position| Function
-|---|---|---|---
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
 
 ### Cluster 6
-Gene| Score| Position| Function
-|---|---|---|---
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
 
 ### Cluster 7
-Gene| Score| Position| Function
-|---|---|---|---
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
 
 ### Cluster 8
-Gene| Score| Position| Function
-|---|---|---|---
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
 
 ### Cluster 9
-Gene| Score| Position| Function
-|---|---|---|---
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
 
 ### Cluster 10
-Gene| Score| Position| Function
-|---|---|---|---
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
 
 ## Кластеры
 ![clust_1](https://user-images.githubusercontent.com/59918228/173350733-1807b442-5571-4088-b9d6-0fe03878a9cb.png)
