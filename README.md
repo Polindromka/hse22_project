@@ -76,6 +76,20 @@ violaceinigra| 1|142|7530059|6562| 88,8%|173378| 1700850|
 ```
 https://github.com/Polindromka/hse22_project/tree/main/align
 ```
+## Сводная таблица по кластерам
+
+Кластер|Кол-во генов| Функция| Расположение|Score|
+|---|---|---|---|---
+1|
+2|
+3|
+4|
+5|
+6|
+7|
+8|
+9|
+10|
 
 ## Кластеры
 ![clust_1](https://user-images.githubusercontent.com/59918228/173350733-1807b442-5571-4088-b9d6-0fe03878a9cb.png)
