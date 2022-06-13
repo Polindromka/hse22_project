@@ -78,18 +78,68 @@ https://github.com/Polindromka/hse22_project/tree/main/align
 ```
 ## Сводная таблица по кластерам
 
-Кластер|Кол-во генов| Функция| Расположение|Score|
+Кластер|Кол-во генов|Score|
+|---|---|---
+1|12|941334.20|
+2|7|254804.21|
+3|7|212126.45|
+4|7|139904.91|
+5|7|138924.10|
+6|7|96520.06|
+7|7|53431.15|
+8|7|53259.64|
+9|7|50260.12|
+10|7|33254.44|
+
+### Cluster 1
+
+Gene| Species| Score| Position| Function
 |---|---|---|---|---
-1|12|||941334.20|
-2|7|||254804.21|
-3|7|||212126.45|
-4|7|||139904.91|
-5|7|||138924.10|
-6|7|||96520.06|
-7|7|||53431.15|
-8|7|||53259.64|
-9|7|||50260.12|
-10|7|||33254.44|
+WP_131147700.1|massilia_albidiflava|833.01|gene|
+WP_131148592.1|massilia_albidiflava|3428.53|gene|
+WP_107140793.1|massilia_armeniaca|908.4|promoter|
+WP_145872587.1|massilia_flava|2659.79|gene|
+WP_134386987.1|massilia_plicata|3661.11|gene|
+WP_075795701.1|massilia_putida|4615.4|promoter|
+WP_131147700.1|massilia_umbonata|2173.08|promoter|
+WP_137315281.1|massilia_umbonata|38833.58|gene|
+WP_099874345.1|massilia_violaceinigra|941334.2|gene|
+
+### Cluster 2
+Gene| Score| Position| Function
+|---|---|---|---
+
+### Cluster 3
+Gene| Score| Position| Function
+|---|---|---|---
+
+### Cluster 4
+Gene| Score| Position| Function
+|---|---|---|---
+
+### Cluster 5
+Gene| Score| Position| Function
+|---|---|---|---
+
+### Cluster 6
+Gene| Score| Position| Function
+|---|---|---|---
+
+### Cluster 7
+Gene| Score| Position| Function
+|---|---|---|---
+
+### Cluster 8
+Gene| Score| Position| Function
+|---|---|---|---
+
+### Cluster 9
+Gene| Score| Position| Function
+|---|---|---|---
+
+### Cluster 10
+Gene| Score| Position| Function
+|---|---|---|---
 
 ## Кластеры
 ![clust_1](https://user-images.githubusercontent.com/59918228/173350733-1807b442-5571-4088-b9d6-0fe03878a9cb.png)
