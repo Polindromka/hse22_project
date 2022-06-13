@@ -109,17 +109,6 @@ WP_099874345.1|massilia_violaceinigra|941334.2|gene|S-(hydroxymethyl)glutathione
 ### Cluster 2
 Gene| Species|Score| Position| Function
 |---|---|---|---|---
-WP_131148525.1|massilia_albidiflava|883.58|gene|
-WP_229416063.1|massilia_armeniaca|883.58|gene|
-WP_145876583.1|massilia_flava|931.17|promoter|
-WP_134382694.1|massilia_plicata|13713.99|promoter|
-WP_075795491.1|massilia_putida|9300.84|gene|
-WP_137315342.1|massilia_umbonata|980.81|promoter|
-WP_099880912.1|massilia_violaceinigra|38833.58|promoter|
-
-### Cluster 3
-Gene| Species|Score| Position| Function
-|---|---|---|---|--
 WP_131148525.1|massilia_albidiflava|883.58|gene|porin_[Massilia_albidiflava]|
 WP_229416063.1|massilia_armeniaca|883.58|gene|porin_[Massilia_armeniaca]|
 WP_145876583.1|massilia_flava|931.17|promoter|hypothetical_protein_[Massilia_flava]|
@@ -129,7 +118,7 @@ WP_137315342.1|massilia_umbonata|980.81|promoter|hypothetical_protein_[Massilia_
 WP_099880912.1|massilia_violaceinigra|38833.58|promoter|hypothetical_protein_[Massilia_violaceinigra]|
 
 
-### Cluster 4
+### Cluster 3
 Gene| Species|Score| Position| Function
 |---|---|---|---|--
 WP_131147485.1|massilia_albidiflava|2197.65|gene|glutamate_5-kinase_[Massilia_albidiflava]|
@@ -139,6 +128,20 @@ WP_189568662.1|massilia_plicata|768.32|gene|glutamate_5-kinase_[Massilia_plicata
 WP_075794853.1|massilia_putida|1364.64|gene|glutamate_5-kinase_[Massilia_putida]|
 WP_137316325.1|massilia_umbonata|38833.58|gene|glutamate_5-kinase_[Massilia_umbonata]|
 WP_099874546.1|massilia_violaceinigra|211093.9|promoter|glutamate_5-kinase_[Massilia_violaceinigra]|
+
+
+
+### Cluster 4
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
+WP_131146565.1|massilia_albidiflava|883.58|promoter|hypothetical_protein_[Massilia_albidiflava]|
+WP_107141742.1|massilia_armeniaca|883.58|gene|hypothetical_protein_[Massilia_armeniaca]|
+WP_145878339.1|massilia_flava|980.81|gene|hypothetical_protein_[Massilia_flava]|
+WP_206076713.1|massilia_plicata|6565.99|gene|hypothetical_protein_[Massilia_plicata]|
+WP_075795641.1|massilia_putida|27872.66|gene|hypothetical_protein_[Massilia_putida]|
+WP_137311920.1|massilia_umbonata|980.81|gene|hypothetical_protein_[Massilia_umbonata]|
+WP_099880217.1|massilia_violaceinigra|980.81|promoter|MULTISPECIES:_hypothetical_protein_[Massilia]|
+
 
 ### Cluster 5
 Gene| Species|Score| Position| Function
