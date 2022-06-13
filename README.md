@@ -71,6 +71,12 @@ putida| 1|948|7523017|6702| 84,1%|194340| 1942590|
 umbonata| 1|0|7426165| 6298| 89,5%| 144834| 1424192|
 violaceinigra| 1|142|7530059|6562| 88,8%|173378| 1700850|
 
+## Выравнивания
+
+```
+https://github.com/Polindromka/hse22_project/tree/main/align
+```
+
 ## Кластеры
 ![clust_1](https://user-images.githubusercontent.com/59918228/173350733-1807b442-5571-4088-b9d6-0fe03878a9cb.png)
 ![clust_2](https://user-images.githubusercontent.com/59918228/173350681-97f8d390-964d-4022-b1b1-c8be4a44fc8c.png)
