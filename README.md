@@ -151,23 +151,59 @@ WP_099875370.1|massilia_violaceinigra|138924.1|gene|
 
 ### Cluster 6
 Gene| Species|Score| Position| Function
-|---|---|---|---|--
+|---|---|---|---|---
+WP_229420971.1|massilia_albidiflava|883.58|promoter|
+WP_107140488.1|massilia_armeniaca|712.19|gene|
+WP_145874869.1|massilia_flava|2752.45|gene|
+WP_134385339.1|massilia_plicata|2752.45|gene|
+WP_075793391.1|massilia_putida|883.58|gene|
+WP_137314766.1|massilia_umbonata|3661.11|gene|
+WP_099882226.1|massilia_violaceinigra|980.81|promoter|
 
 ### Cluster 7
 Gene| Species|Score| Position| Function
-|---|---|---|---|--
+|---|---|---|---|---
+WP_131144258.1|massilia_albidiflava|883.58|gene|
+WP_107143565.1|massilia_armeniaca|783.82|promoter|
+WP_145875079.1|massilia_flava|883.58|promoter|
+WP_134384792.1|massilia_plicata|766.62|gene|
+WP_075792994.1|massilia_putida|1726.68|promoter|
+WP_137314359.1|massilia_umbonata|766.62|promoter|
+WP_099875501.1|massilia_violaceinigra|883.58|gene|
+
 
 ### Cluster 8
 Gene| Species|Score| Position| Function
-|---|---|---|---|--
+|---|---|---|---|---
+WP_131148475.1|massilia_albidiflava|1030.2|gene|
+WP_107144225.1|massilia_armeniaca|13713.99|gene|
+WP_145873505.1|massilia_flava|28780.5|promoter|
+WP_134386307.1|massilia_plicata|883.58|promoter|
+WP_075794471.1|massilia_putida|883.58|gene|
+WP_137315400.1|massilia_umbonata|8922.65|gene|
+WP_099877281.1|massilia_violaceinigra|37878.25|gene|
 
 ### Cluster 9
 Gene| Species|Score| Position| Function
-|---|---|---|---|--
+|---|---|---|---|---
+WP_131148237.1|massilia_albidiflava|1469.17|gene|
+WP_229416284.1|massilia_armeniaca|904.32|promoter|
+WP_145877302.1|massilia_flava|2183.57|gene|
+WP_229466849.1|massilia_plicata|3858.66|gene|
+WP_229503927.1|massilia_putida|6565.99|gene|
+WP_229422866.1|massilia_umbonata|883.58|gene|
+WP_099873631.1|massilia_violaceinigra|883.58|gene|
 
 ### Cluster 10
 Gene| Species|Score| Position| Function
-|---|---|---|---|--
+|---|---|---|---|---
+WP_131144438.1|massilia_albidiflava|812.22|gene|
+WP_107143372.1|massilia_armeniaca|980.81|gene|
+WP_145875498.1|massilia_flava|700.78|gene|
+WP_134384593.1|massilia_plicata|13713.99|gene|
+WP_075792749.1|massilia_putida|883.58|gene|
+WP_137314180.1|massilia_umbonata|13713.99|gene|
+WP_099875813.1|massilia_violaceinigra|2752.45|promoter|
 
 ## Кластеры
 ![clust_1](https://user-images.githubusercontent.com/59918228/173350733-1807b442-5571-4088-b9d6-0fe03878a9cb.png)
