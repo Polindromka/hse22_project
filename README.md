@@ -117,8 +117,15 @@ WP_137315342.1|massilia_umbonata|980.81|promoter|
 WP_099880912.1|massilia_violaceinigra|38833.58|promoter|
 
 ### Cluster 3
-Gene| Score| Position| Function
-|---|---|---|---
+Gene| Species|Score| Position| Function
+|---|---|---|---|--
+WP_131147485.1|massilia_albidiflava|2197.65|gene|
+WP_107141019.1|massilia_armeniaca|883.58|promoter|
+WP_145872819.1|massilia_flava|908.4|gene|
+WP_189568662.1|massilia_plicata|768.32|gene|
+WP_075794853.1|massilia_putida|1364.64|gene|
+WP_137316325.1|massilia_umbonata|38833.58|gene|
+WP_099874546.1|massilia_violaceinigra|211093.9|promoter|
 
 ### Cluster 4
 Gene| Score| Position| Function
