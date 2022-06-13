@@ -95,15 +95,16 @@ https://github.com/Polindromka/hse22_project/tree/main/align
 
 Gene| Species| Score| Position| Function
 |---|---|---|---|---
-WP_131147700.1|massilia_albidiflava|833.01|gene|
-WP_131148592.1|massilia_albidiflava|3428.53|gene|
-WP_107140793.1|massilia_armeniaca|908.4|promoter|
-WP_145872587.1|massilia_flava|2659.79|gene|
-WP_134386987.1|massilia_plicata|3661.11|gene|
-WP_075795701.1|massilia_putida|4615.4|promoter|
-WP_131147700.1|massilia_umbonata|2173.08|promoter|
-WP_137315281.1|massilia_umbonata|38833.58|gene|
-WP_099874345.1|massilia_violaceinigra|941334.2|gene|
+WP_131147700.1|massilia_albidiflava|833.01|gene|MULTISPECIES:_S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia]|
+WP_131148592.1|massilia_albidiflava|3428.53|gene|S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia_albidiflava]|
+WP_107140793.1|massilia_armeniaca|908.4|promoter|S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia_armeniaca]|
+WP_145872587.1|massilia_flava|2659.79|gene|S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia_flava]|
+WP_134386987.1|massilia_plicata|3661.11|gene|S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia_plicata]|
+WP_075795701.1|massilia_putida|4615.4|promoter|S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia_putida]|
+WP_131147700.1|massilia_umbonata|2173.08|promoter|MULTISPECIES:_S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia]|
+WP_137315281.1|massilia_umbonata|38833.58|gene|S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia_umbonata]|
+WP_099874345.1|massilia_violaceinigra|941334.2|gene|S-(hydroxymethyl)glutathione_dehydrogenase/class_III_alcohol_dehydrogenase_[Massilia_violaceinigra]|
+
 
 ### Cluster 2
 Gene| Species|Score| Position| Function
@@ -119,91 +120,98 @@ WP_099880912.1|massilia_violaceinigra|38833.58|promoter|
 ### Cluster 3
 Gene| Species|Score| Position| Function
 |---|---|---|---|--
-WP_131147485.1|massilia_albidiflava|2197.65|gene|
-WP_107141019.1|massilia_armeniaca|883.58|promoter|
-WP_145872819.1|massilia_flava|908.4|gene|
-WP_189568662.1|massilia_plicata|768.32|gene|
-WP_075794853.1|massilia_putida|1364.64|gene|
-WP_137316325.1|massilia_umbonata|38833.58|gene|
-WP_099874546.1|massilia_violaceinigra|211093.9|promoter|
+WP_131148525.1|massilia_albidiflava|883.58|gene|porin_[Massilia_albidiflava]|
+WP_229416063.1|massilia_armeniaca|883.58|gene|porin_[Massilia_armeniaca]|
+WP_145876583.1|massilia_flava|931.17|promoter|hypothetical_protein_[Massilia_flava]|
+WP_134382694.1|massilia_plicata|13713.99|promoter|hypothetical_protein_[Massilia_plicata]|
+WP_075795491.1|massilia_putida|9300.84|gene|hypothetical_protein_[Massilia_putida]|
+WP_137315342.1|massilia_umbonata|980.81|promoter|hypothetical_protein_[Massilia_umbonata]|
+WP_099880912.1|massilia_violaceinigra|38833.58|promoter|hypothetical_protein_[Massilia_violaceinigra]|
+
 
 ### Cluster 4
 Gene| Species|Score| Position| Function
 |---|---|---|---|--
-WP_131146565.1|massilia_albidiflava|883.58|promoter|
-WP_107141742.1|massilia_armeniaca|883.58|gene|
-WP_145878339.1|massilia_flava|980.81|gene|
-WP_206076713.1|massilia_plicata|6565.99|gene|
-WP_075795641.1|massilia_putida|27872.66|gene|
-WP_137311920.1|massilia_umbonata|980.81|gene|
-WP_099880217.1|massilia_violaceinigra|980.81|promoter|
+WP_131147485.1|massilia_albidiflava|2197.65|gene|glutamate_5-kinase_[Massilia_albidiflava]|
+WP_107141019.1|massilia_armeniaca|883.58|promoter|glutamate_5-kinase_[Massilia_armeniaca]|
+WP_145872819.1|massilia_flava|908.4|gene|glutamate_5-kinase_[Massilia_flava]|
+WP_189568662.1|massilia_plicata|768.32|gene|glutamate_5-kinase_[Massilia_plicata]|
+WP_075794853.1|massilia_putida|1364.64|gene|glutamate_5-kinase_[Massilia_putida]|
+WP_137316325.1|massilia_umbonata|38833.58|gene|glutamate_5-kinase_[Massilia_umbonata]|
+WP_099874546.1|massilia_violaceinigra|211093.9|promoter|glutamate_5-kinase_[Massilia_violaceinigra]|
 
 ### Cluster 5
 Gene| Species|Score| Position| Function
 |---|---|---|---|--
-WP_131144115.1|massilia_albidiflava|6565.99|gene|
-WP_107143707.1|massilia_armeniaca|4545.7|gene|
-WP_145874187.1|massilia_flava|4263.56|gene|
-WP_134384923.1|massilia_plicata|1143.35|gene|
-WP_075793141.1|massilia_putida|2091.08|gene|
-WP_137314497.1|massilia_umbonata|46858.52|gene|
-WP_099875370.1|massilia_violaceinigra|138924.1|gene|
+WP_131144115.1|massilia_albidiflava|6565.99|gene|methylglyoxal_synthase_[Massilia_albidiflava]|
+WP_107143707.1|massilia_armeniaca|4545.7|gene|methylglyoxal_synthase_[Massilia_armeniaca]|
+WP_145874187.1|massilia_flava|4263.56|gene|methylglyoxal_synthase_[Massilia_flava]|
+WP_134384923.1|massilia_plicata|1143.35|gene|methylglyoxal_synthase_[Massilia_plicata]|
+WP_075793141.1|massilia_putida|2091.08|gene|methylglyoxal_synthase_[Massilia_putida]|
+WP_137314497.1|massilia_umbonata|46858.52|gene|methylglyoxal_synthase_[Massilia_umbonata]|
+WP_099875370.1|massilia_violaceinigra|138924.1|gene|methylglyoxal_synthase_[Massilia_violaceinigra]|
+
 
 ### Cluster 6
 Gene| Species|Score| Position| Function
 |---|---|---|---|---
-WP_229420971.1|massilia_albidiflava|883.58|promoter|
-WP_107140488.1|massilia_armeniaca|712.19|gene|
-WP_145874869.1|massilia_flava|2752.45|gene|
-WP_134385339.1|massilia_plicata|2752.45|gene|
-WP_075793391.1|massilia_putida|883.58|gene|
-WP_137314766.1|massilia_umbonata|3661.11|gene|
-WP_099882226.1|massilia_violaceinigra|980.81|promoter|
+WP_229420971.1|massilia_albidiflava|883.58|promoter|N-formylglutamate_deformylase_[Massilia_albidiflava]|
+WP_107140488.1|massilia_armeniaca|712.19|gene|N-formylglutamate_deformylase_[Massilia_armeniaca]|
+WP_145874869.1|massilia_flava|2752.45|gene|N-formylglutamate_deformylase_[Massilia_flava]|
+WP_134385339.1|massilia_plicata|2752.45|gene|N-formylglutamate_deformylase_[Massilia_plicata]|
+WP_075793391.1|massilia_putida|883.58|gene|N-formylglutamate_deformylase_[Massilia_putida]|
+WP_137314766.1|massilia_umbonata|3661.11|gene|N-formylglutamate_deformylase_[Massilia_umbonata]|
+WP_099882226.1|massilia_violaceinigra|980.81|promoter|N-formylglutamate_deformylase_[Massilia_violaceinigra]|
+
 
 ### Cluster 7
 Gene| Species|Score| Position| Function
 |---|---|---|---|---
-WP_131144258.1|massilia_albidiflava|883.58|gene|
-WP_107143565.1|massilia_armeniaca|783.82|promoter|
-WP_145875079.1|massilia_flava|883.58|promoter|
-WP_134384792.1|massilia_plicata|766.62|gene|
-WP_075792994.1|massilia_putida|1726.68|promoter|
-WP_137314359.1|massilia_umbonata|766.62|promoter|
-WP_099875501.1|massilia_violaceinigra|883.58|gene|
+WP_131144258.1|massilia_albidiflava|883.58|gene|TIGR01841_family_phasin_[Massilia_albidiflava]|
+WP_107143565.1|massilia_armeniaca|783.82|promoter|MULTISPECIES:_phasin_family_protein_[Massilia]|
+WP_145875079.1|massilia_flava|883.58|promoter|TIGR01841_family_phasin_[Massilia_flava]|
+WP_134384792.1|massilia_plicata|766.62|gene|TIGR01841_family_phasin_[Massilia_plicata]|
+WP_075792994.1|massilia_putida|1726.68|promoter|TIGR01841_family_phasin_[Massilia_putida]|
+WP_137314359.1|massilia_umbonata|766.62|promoter|phasin_family_protein_[Massilia_umbonata]|
+WP_099875501.1|massilia_violaceinigra|883.58|gene|TIGR01841_family_phasin_[Massilia_violaceinigra]|
+
 
 
 ### Cluster 8
 Gene| Species|Score| Position| Function
 |---|---|---|---|---
-WP_131148475.1|massilia_albidiflava|1030.2|gene|
-WP_107144225.1|massilia_armeniaca|13713.99|gene|
-WP_145873505.1|massilia_flava|28780.5|promoter|
-WP_134386307.1|massilia_plicata|883.58|promoter|
-WP_075794471.1|massilia_putida|883.58|gene|
-WP_137315400.1|massilia_umbonata|8922.65|gene|
-WP_099877281.1|massilia_violaceinigra|37878.25|gene|
+WP_131148475.1|massilia_albidiflava|1030.2|gene|response_regulator_[Massilia_albidiflava]|
+WP_107144225.1|massilia_armeniaca|13713.99|gene|response_regulator_[Massilia_armeniaca]|
+WP_145873505.1|massilia_flava|28780.5|promoter|hybrid_sensor_histidine_kinase/response_regulator_[Massilia_flava]|
+WP_134386307.1|massilia_plicata|883.58|promoter|response_regulator_[Massilia_plicata]|
+WP_075794471.1|massilia_putida|883.58|gene|ATP-binding_protein_[Massilia_putida]|
+WP_137315400.1|massilia_umbonata|8922.65|gene|response_regulator_[Massilia_umbonata]|
+WP_099877281.1|massilia_violaceinigra|37878.25|gene|response_regulator_[Massilia_violaceinigra]|
+
 
 ### Cluster 9
 Gene| Species|Score| Position| Function
 |---|---|---|---|---
-WP_131148237.1|massilia_albidiflava|1469.17|gene|
-WP_229416284.1|massilia_armeniaca|904.32|promoter|
-WP_145877302.1|massilia_flava|2183.57|gene|
-WP_229466849.1|massilia_plicata|3858.66|gene|
-WP_229503927.1|massilia_putida|6565.99|gene|
-WP_229422866.1|massilia_umbonata|883.58|gene|
-WP_099873631.1|massilia_violaceinigra|883.58|gene|
+WP_131148237.1|massilia_albidiflava|1469.17|gene|indolepyruvate_ferredoxin_oxidoreductase_family_protein_[Massilia_albidiflava]|
+WP_229416284.1|massilia_armeniaca|904.32|promoter|indolepyruvate_ferredoxin_oxidoreductase_family_protein_[Massilia_armeniaca]|
+WP_145877302.1|massilia_flava|2183.57|gene|indolepyruvate_ferredoxin_oxidoreductase_family_protein_[Massilia_flava]|
+WP_229466849.1|massilia_plicata|3858.66|gene|indolepyruvate_ferredoxin_oxidoreductase_family_protein_[Massilia_plicata]|
+WP_229503927.1|massilia_putida|6565.99|gene|indolepyruvate_ferredoxin_oxidoreductase_family_protein_[Massilia_putida]|
+WP_229422866.1|massilia_umbonata|883.58|gene|indolepyruvate_ferredoxin_oxidoreductase_family_protein_[Massilia_umbonata]|
+WP_099873631.1|massilia_violaceinigra|883.58|gene|indolepyruvate_ferredoxin_oxidoreductase_family_protein_[Massilia_violaceinigra]|
+
 
 ### Cluster 10
 Gene| Species|Score| Position| Function
 |---|---|---|---|---
-WP_131144438.1|massilia_albidiflava|812.22|gene|
-WP_107143372.1|massilia_armeniaca|980.81|gene|
-WP_145875498.1|massilia_flava|700.78|gene|
-WP_134384593.1|massilia_plicata|13713.99|gene|
-WP_075792749.1|massilia_putida|883.58|gene|
-WP_137314180.1|massilia_umbonata|13713.99|gene|
-WP_099875813.1|massilia_violaceinigra|2752.45|promoter|
+WP_131144438.1|massilia_albidiflava|812.22|gene|threonylcarbamoyl-AMP_synthase_[Massilia_albidiflava]|
+WP_107143372.1|massilia_armeniaca|980.81|gene|threonylcarbamoyl-AMP_synthase_[Massilia_armeniaca]|
+WP_145875498.1|massilia_flava|700.78|gene|threonylcarbamoyl-AMP_synthase_[Massilia_flava]|
+WP_134384593.1|massilia_plicata|13713.99|gene|threonylcarbamoyl-AMP_synthase_[Massilia_plicata]|
+WP_075792749.1|massilia_putida|883.58|gene|threonylcarbamoyl-AMP_synthase_[Massilia_putida]|
+WP_137314180.1|massilia_umbonata|13713.99|gene|threonylcarbamoyl-AMP_synthase_[Massilia_umbonata]|
+WP_099875813.1|massilia_violaceinigra|2752.45|promoter|threonylcarbamoyl-AMP_synthase_[Massilia_violaceinigra]|
+
 
 ## Кластеры
 ![clust_1](https://user-images.githubusercontent.com/59918228/173350733-1807b442-5571-4088-b9d6-0fe03878a9cb.png)
