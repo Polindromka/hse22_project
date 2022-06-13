@@ -71,3 +71,14 @@ putida| 1|948|7523017|6702| 84,1%|194340| 1942590|
 umbonata| 1|0|7426165| 6298| 89,5%| 144834| 1424192|
 violaceinigra| 1|142|7530059|6562| 88,8%|173378| 1700850|
 
+## Кластеры
+![clust_1](https://user-images.githubusercontent.com/59918228/173350733-1807b442-5571-4088-b9d6-0fe03878a9cb.png)
+![clust_2](https://user-images.githubusercontent.com/59918228/173350681-97f8d390-964d-4022-b1b1-c8be4a44fc8c.png)
+![clust_3](https://user-images.githubusercontent.com/59918228/173350691-83124cdf-77b5-4955-bca8-e01658e01780.png)
+![clust_4](https://user-images.githubusercontent.com/59918228/173350698-cba070ed-2884-4182-ba89-bf96cb105f89.png)
+![clust_5](https://user-images.githubusercontent.com/59918228/173350701-6395c0ad-169d-42a9-91e8-6ccb2235b245.png)
+![clust_6](https://user-images.githubusercontent.com/59918228/173350705-f3e06191-87c3-47dc-8419-8d6280aa31db.png)
+![clust_7](https://user-images.githubusercontent.com/59918228/173350711-5b3a513f-8550-4484-a0ef-a52833a2cfba.png)
+![clust_8](https://user-images.githubusercontent.com/59918228/173350715-a5245a20-5887-4033-b8b8-93d5e1a80bbd.png)
+![clust_9](https://user-images.githubusercontent.com/59918228/173350719-9506f914-58fa-4c0a-aa50-3993f13423eb.png)
+![clust_10](https://user-images.githubusercontent.com/59918228/173350729-d3c93268-fd1b-4d84-a332-a7923293de65.png)
