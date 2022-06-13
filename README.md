@@ -76,6 +76,13 @@ violaceinigra| 1|142|7530059|6562| 88,8%|173378| 1700850|
 ```
 https://github.com/Polindromka/hse22_project/tree/main/align
 ```
+
+## Гистограммы кластеров 
+Всего было выделено 6934 гомологичных кластеров
+![species_cluster](https://user-images.githubusercontent.com/59918228/173361670-c9dd6f56-31af-4677-b8da-7902439c43c3.png)
+![genes_cluster](https://user-images.githubusercontent.com/59918228/173361710-d0c75aa6-81d8-4469-83d8-3c34dfe7c1a5.png)
+
+
 ## Сводная таблица по кластерам
 
 Кластер|Кол-во генов|Score|
